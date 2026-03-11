@@ -23,7 +23,7 @@ All my projects listed in one place
 <summary><b>Cursed Technique</b> ⛩️ JJK Style </summary>
 <img src="https://github.com/user-attachments/assets/1d0316b7-6f30-4a7c-a480-d5a8e3cd257c" />
 
-* [Cursed Technique Website](https://sameerasw.com/airsync)
+* [Cursed Technique Website](https://cursed-technique.netlify.app/)
 
 </details>
 
@@ -55,7 +55,7 @@ All my projects listed in one place
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sameeraswdotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameera_s_w" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerasw" height="30" width="40" /></a>
+<a href="https://twitter.com/ShashankMi27900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameera_s_w" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerasw" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its_shashank.mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameera_s_w" height="30" width="40" /></a>
 </p>
