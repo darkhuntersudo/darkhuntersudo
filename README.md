@@ -51,7 +51,7 @@ All my projects listed in one place
 <img src="https://github.com/user-attachments/assets/9beb7458-3f98-44c7-ad8f-081fa625df57")></a>
 
 <h3>Join my channel!</h3>
-<a href="https://t.me/+XJWrIqQW4JA3OTZl"><img alt="Untitled (1)" src="https://github.com/user-attachments/assets/4e50edcc-0475-41f7-85e1-5966ba0d332f" /></a>
+<a href="https://t.me/+nVuP9HEK7GQzMWQ1"><img alt="Untitled (1)" src="https://github.com/user-attachments/assets/4e50edcc-0475-41f7-85e1-5966ba0d332f" /></a>
 
 
 
