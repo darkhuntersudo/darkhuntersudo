@@ -43,10 +43,13 @@ All my apps and projects listed in one place
 
 <p align="center">
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=darkhuntersudo&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=darkhuntersudo&theme=holi&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhuntersudo&theme=holi&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  
+[![](https://visitcount.itsvg.in/api?id=darkhuntersudo&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
-
 <p align="center">
   <a href="https://wakatime.com/@sameerasw"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a>
 </p>
