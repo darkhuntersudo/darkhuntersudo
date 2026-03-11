@@ -21,7 +21,7 @@ All my projects listed in one place
 
 <details>
 <summary><b>Cursed Technique ⛩️</b> AR visualizer that uses gesture detection to manifest immersive, Jujutsu Kaisen-inspired particle effects through your mobile device camera. </summary>
-<img src="https://github.com/user-attachments/assets/1d0316b7-6f30-4a7c-a480-d5a8e3cd257c" />
+<img src="https://github.com/user-attachments/assets/9b1c239b-ce80-45e4-b9e4-f2dadb58ab7f" />
 
 * [Cursed Technique Website](https://cursed-technique.netlify.app/)
 
