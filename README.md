@@ -47,7 +47,6 @@ All my projects listed in one place
 ![](https://nirzak-streak-stats.vercel.app/?user=darkhuntersudo&theme=holi&hide_border=true)<br/>
 [![](https://visitcount.itsvg.in/api?id=darkhuntersudo&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
-
 <h3>Checkout my setup!</h3>
 <img src="https://github.com/user-attachments/assets/9beb7458-3f98-44c7-ad8f-081fa625df57")></a>
 
