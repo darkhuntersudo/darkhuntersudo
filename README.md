@@ -17,7 +17,7 @@
 </p>
 
 ## My Projects
-All my apps and projects listed in one place
+All my projects listed in one place
 
 <details>
 <summary><b>Cursed Technique</b> ⛩️ JJK Style </summary>
