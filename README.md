@@ -48,7 +48,7 @@ All my projects listed in one place
 [![](https://visitcount.itsvg.in/api?id=darkhuntersudo&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 <p align="center">
-  <a href="https://wakatime.com/@sameerasw"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a>
+  <a href="https://wakatime.com/@deadhuntersudo"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a>
 </p>
 
 <h3>Checkout my setup!</h3>
