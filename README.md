@@ -1,16 +1,65 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6c4b730-06fe-48fd-9d6c-4eb3e1a51979" alt="setup-wireframe" />
+</p>
 
-<!--
-**darkhuntersudo/darkhuntersudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center" style="border: none; font-size: 2.5rem; margin-bottom: 0;">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Shashank
+</h1>
+
+
+<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
+  👨🏻‍💻 Currently accepting bug reports and compliments — I design, code, engineer and celebrate small wins 🎉😎
+</p>
+<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
+  I'm trying crafting the desktop experiences to bridge the gap between native performance and aesthetics. Whether I'm refining GNOME themes, building something new , I’m driven by clean design and open-source values. Outside the terminal, I’m a gamer, a music lover, and a habitual distro-hopper.
+</p>
+
+## My Projects
+All my apps and projects listed in one place
+
+<details>
+<summary><b>Cursed Technique</b> ⛩️ JJK Style </summary>
+<img src="https://github.com/user-attachments/assets/1d0316b7-6f30-4a7c-a480-d5a8e3cd257c" />
+
+* [Cursed Technique Website](https://sameerasw.com/airsync)
+
+</details>
+
+<hr>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/" target="_blank" title="Buy Me a Coffee">
+    <img src="https://iili.io/JoQl86x.md.png" alt="Buy Me a Coffee" width="104" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,html,css,js,ts,react,github,notion,figma,apple&theme=light&perline=12" />
+  </a>
+</p>
+
+<p align="center">
+
+
+  
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@sameerasw"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a>
+</p>
+
+<h3>Checkout my setup!</h3>
+<img src="https://github.com/user-attachments/assets/9beb7458-3f98-44c7-ad8f-081fa625df57")></a>
+
+<h3>Join my community!</h3>
+<a href="https://t.me/tweb"><img src="https://github.com/sameerasw/sameerasw/assets/68902530/5c267437-9469-4cf6-a61f-440643bef877")></a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sameeraswdotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameera_s_w" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerasw" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its_shashank.mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameera_s_w" height="30" width="40" /></a>
+</p>
