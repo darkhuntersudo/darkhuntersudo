@@ -49,9 +49,6 @@ All my projects listed in one place
 </p>
 <p align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhuntersudo&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=darkhuntersudo&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 <h3>Checkout my setup!</h3>
