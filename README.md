@@ -48,7 +48,10 @@ All my projects listed in one place
 [![](https://visitcount.itsvg.in/api?id=darkhuntersudo&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 <h3>Checkout my setup!</h3>
-<img src="https://github.com/user-attachments/assets/9beb7458-3f98-44c7-ad8f-081fa625df57")></a>
+<img alt="setup" src="https://github.com/user-attachments/assets/db034de2-b49a-4d89-9461-68a6e090b697" />
+
+
+</a>
 
 <h3>Join my channel!</h3>
 <a href="https://t.me/+nVuP9HEK7GQzMWQ1"><img alt="Untitled (1)" src="https://github.com/user-attachments/assets/4e50edcc-0475-41f7-85e1-5966ba0d332f" /></a>
@@ -58,7 +61,7 @@ All my projects listed in one place
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ShashankMi27900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameera_s_w" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerasw" height="30" width="40" /></a>
-<a href="https://www.instagram.com/its_shashank.mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameera_s_w" height="30" width="40" /></a>
+<a href="https://twitter.com/ShashankMi27900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its_shashank.mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
