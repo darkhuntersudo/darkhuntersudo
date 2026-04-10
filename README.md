@@ -54,8 +54,8 @@ All my projects listed in one place
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=darkhuntersudo&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=darkhuntersudo&theme=holi&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=darkhuntersudo&theme=holi&hide_border=true&include_all_commits=false&count_private=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=darkhuntersudo&theme=holi&hide_border=true)<br>
 [![](https://visitcount.itsvg.in/api?id=darkhuntersudo&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 <h3>Checkout my setup!</h3>
