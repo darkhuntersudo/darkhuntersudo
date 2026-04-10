@@ -27,6 +27,15 @@ All my projects listed in one place
 
 </details>
 
+<details>
+<summary><b>🌸 Orizuru </b>It's not just another QR generator—it’s where data meets digital nature. While most QR codes are static and utilitarian, Orizuru transforms your links, contact info, and data into fully customized brand assets, paired with a unique, procedurally generated 3D Blossom Tree.
+ </summary>
+<img src="https://github.com/user-attachments/assets/944269e3-6bcc-4a85-ad08-e69bdb3db3ac" />
+
+* [Orizuru Website](https://orizuru.netlify.app/)
+
+</details>
+
 <hr>
 
 <p align="center">
