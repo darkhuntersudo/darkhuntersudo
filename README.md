@@ -21,7 +21,7 @@ All my projects listed in one place
 
 <details>
 <summary><b>Cursed Technique ⛩️</b> AR visualizer that uses gesture detection to manifest immersive, Jujutsu Kaisen-inspired particle effects through your mobile device camera. </summary>
-  
+  <br>
 <img src="https://github.com/user-attachments/assets/9b1c239b-ce80-45e4-b9e4-f2dadb58ab7f" />
 * [Cursed Technique Website](https://cursed-technique.netlify.app/)
 
@@ -30,7 +30,7 @@ All my projects listed in one place
 <details>
 <summary><b>🌸 Orizuru </b>It's not just another QR generator—it’s where data meets digital nature. While most QR codes are static and utilitarian, Orizuru transforms your links, contact info, and data into fully customized brand assets, paired with a unique, procedurally generated 3D Blossom Tree.
  </summary>
-  
+  <br>
 <img src="https://github.com/user-attachments/assets/944269e3-6bcc-4a85-ad08-e69bdb3db3ac" />
 
 * [Orizuru Website](https://orizuru.netlify.app/)
