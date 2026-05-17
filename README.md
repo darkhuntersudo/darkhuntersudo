@@ -38,6 +38,15 @@ All my projects listed in one place
 
 </details>
 
+<details>
+  <summary><b>IroKasane</b> It's a zero-dependency, single-file color extraction and palette management app. Upload any image, extract its dominant colors via k-means clustering, organize them into primary and secondary palettes, and save them for later — all without leaving the browser.
+  </summary>
+  <br>
+
+* [IroKasane Website](https://irokasane.netlify.app/)
+  
+</details>
+
 <hr>
 
 <p align="center">
